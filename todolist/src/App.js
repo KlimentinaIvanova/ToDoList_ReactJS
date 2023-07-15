@@ -3,6 +3,7 @@ import Header from './components/Header';
 import CreateArea from './components/CreateArea';
 import React, { useState } from 'react';
 import Note from './components/Note';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -37,7 +38,7 @@ function deleteNote(id){
       />
        ) 
       })}
-      
+      <Footer/>
     </div>
   );
 }
