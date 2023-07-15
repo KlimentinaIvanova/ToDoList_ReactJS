@@ -24,7 +24,7 @@ The application should now be running on http://localhost:3000
 # Usage
 
 
-# Adding Tasks
+Adding Tasks
 
 1. On the homepage, you will see a form to add tasks.
 
@@ -32,7 +32,7 @@ The application should now be running on http://localhost:3000
 
 3. Click the "Add Task" button to add the task to the list.
 
-# Managing Tasks
+Managing Tasks
 
 1. After adding tasks, you will see a list of tasks.
 
